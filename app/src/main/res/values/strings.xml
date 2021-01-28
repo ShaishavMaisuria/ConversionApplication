@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">In Class 2a</string>
+    <string name="InchesText">Inches:</string>
+    <string name="StringName">Name</string>
+    <string name="ResultString">Result</string>
+    <string name="ToMetersString">To Meters</string>
+    <string name="ToFeet">To Feet</string>
+    <string name="ToMiles">To Miles</string>
+    <string name="clearAllString">clear All</string>
+    <string name="Number" >Number</string>
+</resources>
